@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image:url(../../public/images/bg-intro-desktop.png) ;
+   background-color:hsl(0, 100%, 74%);
+   height: 1440px;
+   width: 1000px;
+}
+

@@ -1,0 +1,7 @@
+*{--Blue: hsl(248, 32%, 49%)}
+
+.aviso{
+    background-color:hsl(248, 32%, 49%);
+    height: 80px;
+    width: 300px;
+}
